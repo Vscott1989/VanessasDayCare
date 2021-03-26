@@ -1,0 +1,9 @@
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\bin\Debug\VanessasDaycareRepository.dll
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\bin\Debug\VanessasDaycareRepository.pdb
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\bin\Debug\VanessasDaycare.Data.dll
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\bin\Debug\VanessasDaycare.Data.pdb
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\obj\Debug\VanessasDaycareRepository.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\obj\Debug\VanessasDaycareRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\obj\Debug\VanessasDaycareRepository.csproj.CopyComplete
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\obj\Debug\VanessasDaycareRepository.dll
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycareRepository\obj\Debug\VanessasDaycareRepository.pdb

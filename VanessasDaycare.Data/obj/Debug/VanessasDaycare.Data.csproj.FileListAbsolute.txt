@@ -1,0 +1,6 @@
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare.Data\bin\Debug\VanessasDaycare.Data.dll
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare.Data\bin\Debug\VanessasDaycare.Data.pdb
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare.Data\obj\Debug\VanessasDaycare.Data.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare.Data\obj\Debug\VanessasDaycare.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare.Data\obj\Debug\VanessasDaycare.Data.dll
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare.Data\obj\Debug\VanessasDaycare.Data.pdb

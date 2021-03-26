@@ -1,0 +1,12 @@
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\bin\Debug\VanessasDaycare_UI.exe.config
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\bin\Debug\VanessasDaycare_UI.exe
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\bin\Debug\VanessasDaycare_UI.pdb
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\bin\Debug\VanessasDaycare.Data.dll
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\bin\Debug\VanessasDaycareRepository.dll
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\bin\Debug\VanessasDaycare.Data.pdb
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\bin\Debug\VanessasDaycareRepository.pdb
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\obj\Debug\VanessasDaycare_UI.csprojAssemblyReference.cache
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\obj\Debug\VanessasDaycare_UI.csproj.CoreCompileInputs.cache
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\obj\Debug\VanessasDaycare_UI.csproj.CopyComplete
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\obj\Debug\VanessasDaycare_UI.exe
+C:\Users\Nessa\source\repos\VanessasDaycare\VanessasDaycare_UI\obj\Debug\VanessasDaycare_UI.pdb
